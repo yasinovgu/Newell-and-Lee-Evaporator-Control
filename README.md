@@ -13,7 +13,7 @@ In this report a literature review, along with the control perspective, has been
 
 # 2nd Report
 
-From the mathematical model in report 1, a matlab code has been prepared in order to observe the steady state response of the system, and the steady state changes with different step changes.
+From the mathematical model in report 1, a matlab code has been prepared in order to observe the steady state response of the system, and how they change with different step changes.
 
 # 3rd Report
 
